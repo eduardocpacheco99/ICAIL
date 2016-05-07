@@ -1,0 +1,24 @@
+vários tribunais
+um site por tribunal
+várias instâncias
+
+Estratégia 1: ir pelo LeXML
+
+1. identifica todos os tribunais.
+2. mapear a hierarquia entre eles.
+3. identificar a estrutura do processo dentro do tribunal ( xml).
+4. identificar "acompanhamento" do processo ( opcional)
+5. fazer rede com o processo
+
+
+Quais são os tribunais do LeXML?
+https://www.google.com.br/search?q=gr%C3%A1fico+hierarquia+tribunais+brasileiros&biw=2051&bih=1001&tbm=isch&imgil=maQP7BeasnMyoM%253A%253Bge8b8bm6ktCwdM%253Bhttp%25253A%25252F%25252Fwww.ee.usp.br%25252Freeusp%25252Fupload%25252Fhtml%25252F487%25252Fbody%25252Fv33n2a09.htm&source=iu&pf=m&fir=maQP7BeasnMyoM%253A%252Cge8b8bm6ktCwdM%252C_&usg=__BaGIqdT5SGqdbkrT9gFYRQUcHuU%3D&dpr=0.67&ved=0CEsQyjc&ei=FoN0VJTRNomqNs2NgsgF#tbm=isch&q=estrutura+poder+judici%C3%A1rio&facrc=_&imgdii=_&imgrc=9ntX8KqntJS-uM%253A%3B7UDOH68ZBHyJOM%3Bhttp%253A%252F%252Fwww.direitosimplificado.com%252Fmaterias%252Fimagens%252Festrutura_tribunal.png%3Bhttp%253A%252F%252Fdireitosimplificado.com%252Fmaterias%252Fdireito_constitucional_estrutura_poder_judiciario.htm%3B837%3B442
+
+
+tribunal de contas da união
+supremo.tribunal.federal
+superior.tribunal.justica
+tribunal.superior.eleitoral
+tribunal.superior.trabalho
+superior.tribunal.militar
+tribunal.justica
